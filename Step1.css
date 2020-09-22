@@ -12,13 +12,17 @@
   padding: 10px;
   width: 50%;
 }
+#font {
+  font-size: 20px;
+  font-weight: bold;
+}
 #border-thick {
   border-bottom: 2px solid black;
 }
 #border-thin {
   border-bottom: 1px solid black;
 }
-#input {
+input {
   border: none;
 }
 .day-pagination {
