@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.first {
+  border: 4px solid black;
+  padding: 10px;
+  width: 50%;
+}
+.second {
+  border: 4px solid black;
+  padding: 10px;
+  width: 50%;
+}
+#border-thick {
+  border-bottom: 2px solid black;
+}
+#border-thin {
+  border-bottom: 1px solid black;
+}
+.day-pagination {
+  height: 16px;
+  background: #eaeaea;
+  display: inline-block;
+  width: 15px;
+  padding: 0;
+  cursor: pointer;
+  line-height: 16px;
+  margin-right: 2px;
+  text-align: center;
+}
+.svg-inline--fa {
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+.settings-menu {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  float: right;
+  text-align: center;
+}
