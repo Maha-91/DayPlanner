@@ -18,6 +18,9 @@
 #border-thin {
   border-bottom: 1px solid black;
 }
+#input {
+  border: none;
+}
 .day-pagination {
   height: 16px;
   background: #eaeaea;
